@@ -2,8 +2,7 @@
 - 👀 I’m interested in learning coding in order to land a new career in IT. 
 - 🌱 I’m currently learning CSS, and just got the FCC Responsive Web Design Certification, waiting for 2 more to start contributing to real-world projects.
 - 💞️ I’m looking to collaborate on anything people will let me and learn as much as I can.
-- 📫 How to reach me : Message me on here please https://www.instagram.com/banh_baotv/
-
+- 📫 How to reach me : Message me on here please https://www.linkedin.com/in/van-bui-clerc-b40781b8
 
 <!---
 vanbc18/vanbc18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
